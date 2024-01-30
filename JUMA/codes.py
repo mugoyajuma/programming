@@ -1,0 +1,8 @@
+print("\t----------------------------------------")
+print("\t|\t\t MY PHONE\t\t|")
+print("\t|\t\t\t\t\t|")
+print("\t|Name:\t\ttecno spark 5\t\t|")
+print("\t|mode1:\t\tTecno KD7h\t\t|")
+print("\t|versin:\t\tandroid 10\t|")
+print("\t|colour:\t\tblack\t\t|")
+print("\t-----------------------------------------\n")
